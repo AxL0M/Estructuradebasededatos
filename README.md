@@ -1,11 +1,17 @@
 # Estructuradebasededatos
+
+
+
+
 ESTRUCTURA DE DATOS :
 
 (⌐■_■)︻╦╤─ (╥﹏╥)
 
 INGENIERIA TECNOLOGIAS DE LA INFORMACION Y COMUNICACION 
 
-Alumno: Axel Olivares Medina 	┌( ͝° ͜ʖ͡°)=ε/̵͇̿̿/’̿’̿ ̿
+Alumno: Axel Olivares Medina    
+
+┌( ͝° ͜ʖ͡°)=ε/̵͇̿̿/’̿’̿ ̿
 
 Profesor: Eduardo Flores Gallegos
 
