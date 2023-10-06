@@ -74,21 +74,41 @@ Ciencia de datos: Es el estudio de datos con el fin de extraer información sign
 Base de datos: Es una herramienta para recopilar y organizar información. Las bases de datos pueden almacenar información sobre personas, productos, pedidos u otras cosas. Muchas bases de datos comienzan como una lista en una hoja de cálculo o en un programa de procesamiento de texto.
 
 
-░░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄░░░░░░░
-░░░░░█░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░▀▀▄░░░░
-░░░░█░░░▒▒▒▒▒▒░░░░░░░░▒▒▒░░█░░░
-░░░█░░░░░░▄██▀▄▄░░░░░▄▄▄░░░░█░░
-░▄▀▒▄▄▄▒░█▀▀▀▀▄▄█░░░██▄▄█░░░░█░
-█░▒█▒▄░▀▄▄▄▀░░░░░░░░█░░░▒▒▒▒▒░█
-█░▒█░█▀▄▄░░░░░█▀░░░░▀▄░░▄▀▀▀▄▒█
-░█░▀▄░█▄░█▀▄▄░▀░▀▀░▄▄▀░░░░█░░█░
-░░█░░░▀▄▀█▄▄░█▀▀▀▄▄▄▄▀▀█▀██░█░░
-░░░█░░░░██░░▀█▄▄▄█▄▄█▄████░█░░░
-░░░░█░░░░▀▀▄░█░░░█░█▀██████░█░░
-░░░░░▀▄░░░░░▀▀▄▄▄█▄█▄█▄█▄▀░░█░░
-░░░░░░░▀▄▄░▒▒▒▒░░░░░░░░░░▒░░░█░
-░░░░░░░░░░▀▀▄▄░▒▒▒▒▒▒▒▒▒▒░░░░█░
-░░░░░░░░░░░░░░▀▄▄▄▄▄░░░░░░░░█░░
+#UNIDAD II
+
+
+CONCEPTOS:
+
+
+Listas: Es una estructura de datos residente en la memoria que se llena con un conjunto de nombres extraídos de una fuente externa, como por ejemplo un archivo sin formato.
+
+
+Diccionario: Es un tipo de metadato que enlista de manera organizada los nombres, definiciones y características de cada uno de los campos o atributos de una base de datos y/o conjunto de datos.
+
+
+Pila: Se define formalmente como una colección de datos a los cuales se puede acceder mediante un extremo, que se conoce generalmente como tope.
+
+
+Pila estática: Es una implementación de una pila utilizando un arreglo de tamaño fijo. En una pila estática, el tamaño máximo de la pila se define al momento de su creación y no puede ser modificado durante la ejecución del programa.
+
+
+Pila dinámica: Estructura dinámica que «apila» elementos de forma que para llegar al primero, hay que quitar todos los nodos que se hayan añadido después. Utiliza LIFO (Last Input First Output).
+
+
+Cola: Es una estructura de datos que almacena elementos en una lista y permite acceder a los datos por uno de los dos extremos de la lista. Un elemento se inserta en la cola (parte final) de la lista y se suprime o elimina por la frente (parte inicial, cabeza) de la lista.
+
+
+Cola estáticas y dinámicas: Al hablar de una cola estática, se considera que tendrá un tamaño definido y no podrá superar dicha capacidad para el almacenamiento de más información, solo la indicada.
+
+
+Lenguaje R: R quiere decir que se trata de un tipo de lenguaje de programación con software libre, que, a su vez, es un tipo de lenguaje interpretado. Es decir, los comandos o instrucciones son ejecutados directamente sin ningún tipo de software externo o compilación de datos de lenguaje máquina.
+
+
+Lenguaje Python: es un lenguaje de programación ampliamente utilizado en las aplicaciones web, el desarrollo de software, la ciencia de datos y el machine learning (ML).
+
+
+Lenguaje Javascript: es un lenguaje de programación que los desarrolladores utilizan para hacer páginas web interactivas
+
 
 
 ⠀⠀⠀⠀
